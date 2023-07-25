@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="margin_2dp">2dp</dimen>
+    <dimen name="margin_1dp">1dp</dimen>
+    <dimen name="margin_child">8dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_parent">16dp</dimen>
+    <dimen name="margin_24dp">24dp</dimen>
+    <dimen name="margin_32dp">32dp</dimen>
+    <dimen name="margin_40dp">40dp</dimen>
+    <dimen name="margin_48dp">48dp</dimen>
+    <dimen name="margin_96dp">96dp</dimen>
+    <dimen name="margin_header">50dp</dimen>
+    <dimen name="margin_150dp">150dp</dimen>
+    <dimen name="margin_180dp">180dp</dimen>
+    <dimen name="margin_sale_off">40dp</dimen>
+    <dimen name="margin_buy_this">16dp</dimen>
+    <dimen name="margin_btn_premium">22dp</dimen>
+    <dimen name="margin_btn_done">18dp</dimen>
+
+    <!--height-->
+    <dimen name="height_toolbar">70dp</dimen>
+    <dimen name="width_toolbar_40dp">40dp</dimen>
+    <dimen name="width_toolbar_20dp">20dp</dimen>
+    <dimen name="height_toolbar_4dp">4dp</dimen>
+    <dimen name="height_toolbar_3dp">3dp</dimen>
+    <dimen name="height_2dp">2dp</dimen>
+    <dimen name="height_32dp">32dp</dimen>
+    <dimen name="height_tool_bar">50dp</dimen>
+    <dimen name="height_checkbox">24dp</dimen>
+    <dimen name="padding_bottom_recyclerview">200dp</dimen>
+    <dimen name="width_item_adjustment">84dp</dimen>
+    <dimen name="min_width_tab_layout">110dp</dimen>
+    <dimen name="min_width_tab_layout_spiral">90dp</dimen>
+
+    <!--conner-->
+    <dimen name="corner_20dp">20dp</dimen>
+    <dimen name="corner_6dp">6dp</dimen>
+    <dimen name="corner_8dp">8dp</dimen>
+    <dimen name="corner_18dp">18dp</dimen>
+    <dimen name="corner_12dp">12dp</dimen>
+    <dimen name="corner_14dp">14dp</dimen>
+    <dimen name="corner_10dp">10dp</dimen>
+    <dimen name="corner_24dp">24dp</dimen>
+    <dimen name="corner_28dp">28dp</dimen>
+    <dimen name="corner_btn_premium">34dp</dimen>
+    <dimen name="corner_100dp">100dp</dimen>
+
+    <!--text-->
+    <dimen name="size_text_default">16sp</dimen>
+    <dimen name="size_text_sub">14sp</dimen>
+    <dimen name="size_text_main_tool">20sp</dimen>
+    <dimen name="size_text_title">18sp</dimen>
+    <dimen name="size_text_content">16sp</dimen>
+    <dimen name="size_text_25">25sp</dimen>
+    <dimen name="size_text_12">12sp</dimen>
+    <dimen name="size_text_ads_11">11sp</dimen>
+    <dimen name="size_text_ads_10">10sp</dimen>
+    <dimen name="size_text_title_premium">30sp</dimen>
+    <dimen name="size_text_price_premium">50sp</dimen>
+
+    <dimen name="size_radius">16dp</dimen>
+    <dimen name="size_radius_8dp">8dp</dimen>
+
+    <dimen name="size_line">0.5dp</dimen>
+    <dimen name="size_progress">4dp</dimen>
+
+    <dimen name="round_button_small">32dp</dimen>
+    <dimen name="round_button_medium">64dp</dimen>
+    <dimen name="round_button_large">92dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="size_view_line">2dp</dimen>
+
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="size_shimmer">100dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_view_to_view">16dp</dimen>
+    <dimen name="size_shimmer_tab">40dp</dimen>
+    <dimen name="width_indicator">24dp</dimen>
+    <dimen name="stoke_border">3dp</dimen>
+    <dimen name="stoke_border_premium">2dp</dimen>
+    <dimen name="margin_horizontal">16dp</dimen>
+    <dimen name="size_banner_ads">300dp</dimen>
+    <dimen name="size_banner_rate">290dp</dimen>
+    <dimen name="size_banner_exit_dialog">234dp</dimen>
+    <dimen name="size_button_exit_dialog">50dp</dimen>
+    <dimen name="margin_progressbar_download">3.5dp</dimen>
+    <dimen name="size_shimmer_template">100dp</dimen>
+    <dimen name="min_width_btn_splash">150dp</dimen>
+    <dimen name="padding_70">70dp</dimen>
+    <dimen name="size_ads_150">150dp</dimen>
+</resources>

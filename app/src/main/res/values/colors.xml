@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
+    <color name="colorPrimary">#5D4FFF</color>
+    <color name="colorBackground">#FFFFFF</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="color_text">#35367D</color>
+    <color name="shimmer">#D9D6E7</color>
+
+    <!--ads-->
+    <color name="color_border_background_facebook">#E2F2FF</color>
+    <color name="color_border_bkg_banner_facebook">#E2F2FF</color>
+    <color name="color_background_ads_facebook">#F6F6F6</color>
+    <color name="color_background_mediaview_admob">#E6E5E5</color>
+    <color name="color_background_ads_banner">#FFFFFF</color>
+    <color name="background_selected_photo">#7A000000</color>
+    <color name="color_ads">#FFD176</color>
+    <color name="color_progress_background">#EFEFEF</color>
 </resources>

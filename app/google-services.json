@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82756164615",
+    "project_id": "claptofindphone-bigsoft",
+    "storage_bucket": "claptofindphone-bigsoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82756164615:android:de475b8c5ef7c89dc91ea2",
+        "android_client_info": {
+          "package_name": "com.bigsoft.clap.myphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82756164615-2bspn2b5s6jvf490d58akake40sr7ppr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSvV4mAjnQhuP8iUKCkvU-6nSXZouE9CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82756164615-2bspn2b5s6jvf490d58akake40sr7ppr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

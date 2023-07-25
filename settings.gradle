@@ -2,6 +2,8 @@ pluginManagement {
     repositories {
         google()
         mavenCentral()
+        jcenter()
+        maven { url "https://jitpack.io" }
         gradlePluginPortal()
     }
 }
@@ -10,7 +12,37 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        jcenter()
+        maven { url "https://jitpack.io" }
     }
 }
 rootProject.name = "Find Phone By Clap"
 include ':app'
+
+include ':libUtils'
+project(':libUtils').projectDir = new File(settingsDir, '../BazookaLibs/libUtils')
+
+include ':libFirebaseTracker'
+project(':libFirebaseTracker').projectDir = new File(settingsDir, '../BazookaLibs/libFirebaseTracker')
+
+include ':libNetwork'
+project(':libNetwork').projectDir = new File(settingsDir, '../BazookaLibs/libNetwork')
+
+include ':libAdManager'
+project(':libAdManager').projectDir = new File(settingsDir, '../BazookaLibs/libAdManager')
+
+include ':libAdmob'
+project(':libAdmob').projectDir = new File(settingsDir, '../BazookaLibs/libAdmob')
+
+include ':libFacebookAd'
+project(':libFacebookAd').projectDir = new File(settingsDir, '../BazookaLibs/libFacebookAd')
+
+include ':libIab'
+project(':libIab').projectDir = new File(settingsDir, '../BazookaLibs/libIab')
+
+include ':libAdjustSdk'
+project(':libAdjustSdk').projectDir = new File(settingsDir, '../BazookaLibs/libAdjustSdk')
+
+include ':libCheckUpdateApp'
+project(':libCheckUpdateApp').projectDir = new File(settingsDir, '../BazookaLibs/libCheckUpdateApp')
+

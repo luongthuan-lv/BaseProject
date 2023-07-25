@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Find Phone By Clap</string>
+    <!-- ADMOB + FACEBOOK AD ID -->
+    <string name="facebook_app_id" translatable="false">6786689234680681</string>
+    <string name="facebook_client_token" translatable="false">6d84ac10a801ac3a3367727eef2cace2</string>
+    <string name="app_name" translatable="false">Find Phone By Clap</string>
+    <string name="text_load_ads">Advertising helps us maintain and develop products…</string>
+    <string name="get_started">Get Started</string>
+    <string name="title_fist">Find My Phone</string>
+    <string name="title_second">Flashlight</string>
+    <string name="title_third">Sound</string>
+    <string name="title_final">Vibrate</string>
+    <string name="content_fist">Easily find your phone by clapping</string>
+    <string name="content_second">Detect phone easily with flashlight</string>
+    <string name="content_third">Choose from a wide variety of sounds</string>
+    <string name="content_final">Various vibrating sounds</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
